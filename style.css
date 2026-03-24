@@ -1,0 +1,127 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?8ovbz3');
+  src:  url('fonts/icomoon.eot?8ovbz3#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?8ovbz3') format('truetype'),
+    url('fonts/icomoon.woff?8ovbz3') format('woff'),
+    url('fonts/icomoon.svg?8ovbz3#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a:before {
+  content: "\61";
+}
+.icon-i:before {
+  content: "\69";
+}
+.icon-u:before {
+  content: "\75";
+}
+.icon-IMG_20260324_160608:before {
+  content: "\65";
+}
+.icon-IMG_20260324_160814:before {
+  content: "\6f";
+}
+.icon-svg-viewer-27-1:before {
+  content: "\62";
+}
+.icon-IMG_20260324_180404:before {
+  content: "\63";
+}
+.icon-svg-viewer-7:before {
+  content: "\64";
+}
+.icon-svg-viewer-23-1:before {
+  content: "\66";
+}
+.icon-svg-viewer-22:before {
+  content: "\67";
+}
+.icon-svg-viewer-21:before {
+  content: "\68";
+}
+.icon-svg-viewer-20:before {
+  content: "\6a";
+}
+.icon-svg-viewer-19:before {
+  content: "\6b";
+}
+.icon-svg-viewer-18:before {
+  content: "\6c";
+}
+.icon-svg-viewer-17:before {
+  content: "\6d";
+}
+.icon-svg-viewer-16:before {
+  content: "\6e";
+}
+.icon-svg-viewer-15:before {
+  content: "\70";
+}
+.icon-svg-viewer-14:before {
+  content: "\72";
+}
+.icon-svg-viewer-13:before {
+  content: "\73";
+}
+.icon-svg-viewer-12:before {
+  content: "\74";
+}
+.icon-svg-viewer-11:before {
+  content: "\77";
+}
+.icon-svg-viewer-10:before {
+  content: "\79";
+}
+.icon-svg-viewer-27-11:before {
+  content: "\e914";
+}
+.icon-svg-viewer-8:before {
+  content: "\e915";
+}
+.icon-svg-viewer-24:before {
+  content: "\e916";
+}
+.icon-svg-viewer-6:before {
+  content: "\e917";
+}
+.icon-svg-viewer-5:before {
+  content: "\e918";
+}
+.icon-svg-viewer-4:before {
+  content: "\e919";
+}
+.icon-svg-viewer-3:before {
+  content: "\e91a";
+}
+.icon-svg-viewer:before {
+  content: "\e91b";
+}
